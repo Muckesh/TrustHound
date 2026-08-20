@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/arunbalajib/Documents/Hackathon-2026/trusthound/collector/**)",
+      "Read(//Users/arunbalajib/Documents/Hackathon-2026/vulnerable-lab-1/**)"
+    ]
+  }
+}

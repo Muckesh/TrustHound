@@ -1,0 +1,1 @@
+# if i want to host this on aws bedrock agentcore, how to do that, if i host this on agentcore, how will i use the model   
